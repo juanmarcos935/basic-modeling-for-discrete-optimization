@@ -1,4 +1,4 @@
-<h1>Basic Modeling for Discrete Optimization Course (Proyecto final de Programación por Restricciones: Programación de Actores)</h1>
+<h1>Basic Modeling for Discrete Optimization Course (Curso de Modelado Básico para Optimización Discreta)</h1>
 <img src="https://i.ibb.co/fqcMYbt/Captura-de-pantalla-de-2020-07-31-22-11-06.png">
 <p><b> English: </b>  </p>
 <p><b> Español: </b>  </p>
